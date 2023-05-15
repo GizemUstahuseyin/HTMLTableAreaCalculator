@@ -1,0 +1,57 @@
+/*li { *//*
+    text-decoration: line-through;
+    text-decoration-color: red;
+    color: blue;
+    background-color: gray;
+}
+
+.sabah {
+    color: blue;
+    background-color: aliceblue;
+    font-size: 50px;
+}*/
+/*    .alan1
+
+{
+    width: 200px;
+    height: 200px;
+    background: #9c09e0;
+    position: relative;
+    position: absolute;
+    z-index: 3;
+}
+
+.alan2 {
+    width: 200px;
+    height: 200px;
+    background: #e06e09;
+    margin-top: 50px;
+    margin-left: 50px;
+    position: absolute;
+    z-index: 2;
+}
+
+.alan3 {
+    width: 200px;
+    height: 200px;
+    background: #09e0ae;
+    z-index: 1;
+    margin-top: 100px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+span {
+    color: white;
+    font-weight: bold;
+}
+*/
+
+/*table{
+border-spacing:50px;
+}*/
+
+
+body {
+    background-color: yellow;
+}
